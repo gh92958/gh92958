@@ -1,5 +1,5 @@
 ## Hi
-I am a fourth year graduating in the May in Management Information Systems and an International Business co-major!
+I am a fourth year graduating in the May in Management Information Systems and an International Business co-major looking for a full-time job! Below is my resume!
 ## Resume
 [My Resume](./Job_Resume-Gisel_Hernandez-Vazquez.pdf)
 <!--
