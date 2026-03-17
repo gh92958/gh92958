@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ## Resume
 [View My Resume](./Job Resume- Gisel Hernandez-Vazquez.pdf)
 <!--
