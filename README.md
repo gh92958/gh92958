@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## Resume
-[View My Resume](./your-resume-file.pdf)
+[View My Resume](./Job Resume- Gisel Hernandez-Vazquez.pdf)
 <!--
 **gh92958/gh92958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
