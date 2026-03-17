@@ -1,6 +1,7 @@
-
+#Hi
+I am a fourth year graduating in the May in Management Information Systems and an International Business co-major!
 ## Resume
-[View My Resume](./Job_Resume-Gisel_Hernandez-Vazquez.pdf)
+[My Resume](./Job_Resume-Gisel_Hernandez-Vazquez.pdf)
 <!--
 **gh92958/gh92958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
