@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## Resume
+[View My Resume](./your-resume-file.pdf)
 <!--
 **gh92958/gh92958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
